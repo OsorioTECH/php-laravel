@@ -14,5 +14,7 @@
             "email": "stiven.osorio.2207@gmail.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    }
 }

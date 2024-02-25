@@ -4,7 +4,6 @@ namespace Osoriotech\PhpLaravel;
 
 class User {
 
-    
     /**
      * @type string
      */
