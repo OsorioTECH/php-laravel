@@ -1,0 +1,18 @@
+{
+    "name": "osoriotech/php-laravel",
+    "description": "Proyecto php con laravel",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Osoriotech\\PhpLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stiven Osorio",
+            "email": "stiven.osorio.2207@gmail.com"
+        }
+    ],
+    "require": {}
+}
